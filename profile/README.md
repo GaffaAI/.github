@@ -8,11 +8,7 @@ Gaffa is a simple REST API for browser automation that eliminates the need for f
 
 You can start using Gaffa now by signing up at https://gaffa.dev
 
----
-
-# Gaffa's GitHub Repositories
-
-## Repository Overview
+## Gaffa's GitHub Repositories
 
 ### 1. **WebLibrary** Repository  
 - #A collection of themes, components and tools that are used in Gaffa's open source product
