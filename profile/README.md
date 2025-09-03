@@ -11,7 +11,7 @@ You can start using Gaffa now by signing up at https://gaffa.dev
 ## Gaffa's GitHub Repositories
 
 ### 1. **WebLibrary** Repository  
-- #A collection of themes, components and tools that are used in Gaffa's open source product
+- A collection of themes, components and tools that are used in Gaffa's open source product
 
 ### 3. **Docs** Repository
 - Documentation for the Gaffa web automation API - feel free to contribute if you think we've missed something! https://gaffa.dev/docs
