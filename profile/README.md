@@ -14,4 +14,4 @@ You can start using Gaffa now by signing up at https://gaffa.dev
 - Documentation for the Gaffa web automation API - feel free to contribute if you think we've missed something! https://gaffa.dev/docs
 
 ### 2. **GaffaPythonExamples** Repository
-- Examples from the Gaffa blog that are built with Python
+- Examples from the Gaffa blog that are built with Python: https://github.com/GaffaAI/GaffaPythonExamples
