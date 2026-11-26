@@ -24,3 +24,6 @@ You can start using Gaffa now by signing up at https://gaffa.dev
 
 ### 5. **GaffaNodeSamples** Repository
 - Examples of what you can build with Gaffa using Node.js: https://github.com/GaffaAI/GaffaNodeSamples
+
+### 6. **n8n-nodes-gaffa** Repository
+- The Gaffa node for n8n (`@gaffa-dev/n8n-nodes-gaffa`), with workflow templates that use it: https://github.com/GaffaAI/n8n-nodes-gaffa
